@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+datetime
+quantstats
+ipywidgets
+xlrd
+plotly
+plotly-express
+voila
